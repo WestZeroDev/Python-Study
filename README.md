@@ -1,2 +1,5 @@
 # Python-Study
- 파이썬 공부
+ ### Syntax
+ ✏️ 기초 문법 공부  
+ ### KBO_crawling
+ ⚾ KBO 선수 기록 크롤링
